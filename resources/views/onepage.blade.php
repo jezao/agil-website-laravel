@@ -319,7 +319,7 @@
             <div class="col-md-12 col-lg-6 wow slideInLeft" data-wow-delay=".4s">
                 <div class="mapouter">
                     <div id="map">
-                        <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/whatsapp.jpg') }}" width="100%" />
+                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Protassio+de+camargo+sampaio%2C+Sorocaba&zoom=15&scale=2&size=540x300&maptype=roadmap&format=png&key=AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs&markers=size:mid%7Ccolor:0xf0c905%7Clabel:1%7CProtassio%20de%20camargo%20sampaio%2C%20Sorocaba" alt="Google map of Protassio de camargo sampaio, Sorocaba" width="100%" />
                     </div>
                 </div>
             </div>

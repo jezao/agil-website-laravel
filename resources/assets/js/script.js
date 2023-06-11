@@ -1,17 +1,6 @@
 import $ from  'jquery';
 import WOW from 'wow.js';
 
-import {Loader} from 'google-maps';
-// or const {Loader} = require('google-maps'); without typescript
-
-const loader = new Loader('AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs', {});
-
-const google = await loader.load();
-const map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat:-23.478335362120983, lng:  -47.500097385699796},
-    zoom: 15,
-});
-
 // if ($(window).width() < 1020) {}
 
 /* ===================================
