@@ -27,12 +27,12 @@ $(window).on("load", function () {
 
     $('.side-menu').removeClass('hidden');
 
-    setTimeout(function(){
-        $('.preloader').fadeOut();
-        $('.cd-transition-layer').addClass('closing').delay(1000).queue(function(){
-            $(this).removeClass("visible closing opening").dequeue();
-        });
-    }, 1000);
+    // setTimeout(function(){
+    //     $('.preloader').fadeOut();
+    //     $('.cd-transition-layer').addClass('closing').delay(1000).queue(function(){
+    //         $(this).removeClass("visible closing opening").dequeue();
+    //     });
+    // }, 1000);
 
     // setTimeout(function(){
     //     $('.banner-slider .svg-div').removeClass('svg-anim');
@@ -285,37 +285,37 @@ $(function(){
              Swiper Sync Slider
    ======================================*/
 
-if ($("#gallery").length) {
-    var galleryTop = new Swiper('#gallery', {
-        effect: 'fade',
-        direction: 'vertical',
-        spaceBetween: 10,
-        slidesPerView: 1,
-        slidesPerGroup: 1,
-        loop: true,
-        initialSlide: 0,
-        centeredSlides: true,
-        loopAdditionalSlides: 5,
-        touchRatio: 0.2,
-
-    });
-
-    var galleryThumbs = new Swiper('#thumbs', {
-        direction: 'vertical',
-        spaceBetween: 10,
-        slidesPerView: 3,
-        slidesPerGroup: 1,
-        loop: true,
-        initialSlide: 0,
-        centeredSlides: true,
-        loopAdditionalSlides: 3,
-        touchRatio: 0.2,
-        slideToClickedSlide: true
-    });
-
-    galleryTop.controller.control = galleryThumbs;
-    galleryThumbs.controller.control = galleryTop;
-}
+// if ($("#gallery").length) {
+//     var galleryTop = new Swiper('#gallery', {
+//         effect: 'fade',
+//         direction: 'vertical',
+//         spaceBetween: 10,
+//         slidesPerView: 1,
+//         slidesPerGroup: 1,
+//         loop: true,
+//         initialSlide: 0,
+//         centeredSlides: true,
+//         loopAdditionalSlides: 5,
+//         touchRatio: 0.2,
+//
+//     });
+//
+//     var galleryThumbs = new Swiper('#thumbs', {
+//         direction: 'vertical',
+//         spaceBetween: 10,
+//         slidesPerView: 3,
+//         slidesPerGroup: 1,
+//         loop: true,
+//         initialSlide: 0,
+//         centeredSlides: true,
+//         loopAdditionalSlides: 3,
+//         touchRatio: 0.2,
+//         slideToClickedSlide: true
+//     });
+//
+//     galleryTop.controller.control = galleryThumbs;
+//     galleryThumbs.controller.control = galleryTop;
+// }
 
 // // Initialize and add the map
 // let map;

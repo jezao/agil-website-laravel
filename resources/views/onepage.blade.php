@@ -20,23 +20,23 @@
 
 <body data-spy="scroll" data-target="#megaone" data-offset="90">
 
-<!-- Preloader -->
-<div class="preloader">
-    <div class="center">
-        <div class="loader">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-</div>
-<!-- Preloader End -->
+{{--<!-- Preloader -->--}}
+{{--<div class="preloader">--}}
+{{--    <div class="center">--}}
+{{--        <div class="loader">--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--            <div></div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}
+{{--<!-- Preloader End -->--}}
 
 @include('heading')
 
