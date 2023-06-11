@@ -11,7 +11,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3JDCVSGNX"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-K3JDCVSGNX');
@@ -47,17 +51,21 @@
             <!-- Content -->
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left">
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
-                    <a href="https://api.whatsapp.com/send/?phone=5515996893668&text&type=phone_number&app_absent=0" class="phone-banner" target="_blank">
+                    <a href="https://api.whatsapp.com/send/?phone=5515996893668&text&type=phone_number&app_absent=0"
+                       class="phone-banner" target="_blank">
                         <i class="lni lni-whatsapp"></i> 15 99689.3668
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
                     <p class="text">Pagamento facilitado em até <strong>6x</strong></p>
-                    <a href="#contato" class="scroll button" style="background: #FFF; padding: 10px; border-radius: 10px;"><i class="las la-angle-right"></i>Agende agora</a>
+                    <a href="#contato" class="scroll button"
+                       style="background: #FFF; padding: 10px; border-radius: 10px;"><i class="las la-angle-right"></i>Agende
+                        agora</a>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="image-banner wow slideInRight" data-wow-delay=".7s">
-                    <img src="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumber01.webp')}}" alt="">
+                    <img src="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumber01.webp')}}"
+                         alt="">
                 </div>
             </div>
         </div>
@@ -290,7 +298,6 @@
             </div>
 
 
-
         </div>
     </div>
 </section>
@@ -319,7 +326,8 @@
             <div class="col-md-12 col-lg-6 wow slideInLeft" data-wow-delay=".4s">
                 <div class="mapouter">
                     <div id="map">
-                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Protassio+de+camargo+sampaio%2C+Sorocaba&zoom=15&scale=2&size=540x300&maptype=roadmap&format=png&key=AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs&markers=size:mid%7Ccolor:0xf0c905%7Clabel:1%7CProtassio%20de%20camargo%20sampaio%2C%20Sorocaba" alt="Google map of Protassio de camargo sampaio, Sorocaba" width="100%" />
+                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Protassio+de+camargo+sampaio%2C+Sorocaba&zoom=15&scale=2&size=540x300&maptype=roadmap&format=png&key=AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs&markers=size:mid%7Ccolor:0xf0c905%7Clabel:1%7CProtassio%20de%20camargo%20sampaio%2C%20Sorocaba"
+                             alt="Google map of Protassio de camargo sampaio, Sorocaba" width="100%"/>
                     </div>
                 </div>
             </div>
