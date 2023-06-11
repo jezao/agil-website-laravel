@@ -5,7 +5,7 @@
         <div class="container">
             <a href="#home" title="Logo" class="logo">
                 <!--Logo Default-->
-                <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo3.png') }} alt="logo" class="logo-dark" alt="Logo">
+                <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo3.webp') }} alt="logo" class="logo-dark" alt="Logo">
             </a>
 
             <!--Nav Links-->

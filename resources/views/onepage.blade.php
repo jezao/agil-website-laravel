@@ -110,7 +110,7 @@
                     </p>
                 </div>
                 <div class="image-div">
-                    <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumberAbout.jpg') }} alt="image">
+                    <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumberAbout.webp') }} alt="image">
                 </div>
             </div>
         </div>
