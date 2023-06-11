@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
 import topLevelAwait from "vite-plugin-top-level-await";
-import basicSsl from '@vitejs/plugin-basic-ssl'
+import basicSsl from '@vitejs/plugin-basic-ssl';
+import purge from '@erbelion/vite-plugin-laravel-purgecss';
 
 
 
@@ -17,6 +18,9 @@ export default defineConfig({
             // The function to generate import names of top-level await promise in each chunk module
             promiseImportName: i => `__tla_${i}`
         }),
-        basicSsl()
+        basicSsl(),
+        purge({
+            templates: ['blade']
+        })
     ],
 });
