@@ -96,7 +96,7 @@
 </script>
 
 
-<script>
+<script async>
     window.fbAsyncInit = function() {
         FB.init({
             xfbml            : true,
