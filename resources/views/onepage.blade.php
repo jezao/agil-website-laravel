@@ -57,7 +57,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="image-banner wow slideInRight" data-wow-delay=".7s">
-                    <img src="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumber01.png')}}" alt="">
+                    <img src="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumber01.webp')}}" alt="">
                 </div>
             </div>
         </div>
@@ -133,7 +133,7 @@
                  </h1>
              </div>
              <div class="image-div">
-                 <img src="assets/images/about-img.png" alt="image">
+                 <img src="assets/images/about-img.webp" alt="image">
              </div>
          </div>
     </div>
