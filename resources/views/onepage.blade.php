@@ -53,7 +53,7 @@
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
                     <a href="https://api.whatsapp.com/send/?phone=5515996893668&text&type=phone_number&app_absent=0"
                        class="phone-banner" target="_blank">
-                        <i class="lni lni-whatsapp"></i> 15 99689.3668
+                        <i class="lni lni-whatsapp"></i> 15 99689.3668 (Whatsapp)
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
                     <p class="text">Pagamento facilitado em até <strong>6x</strong></p>
