@@ -93,8 +93,8 @@
     var chatbox = document.getElementById('fb-customer-chat');
     chatbox.setAttribute("page_id", "119215121142821");
     chatbox.setAttribute("attribution", "biz_inbox");
-    // chatbox.setAttribute("greeting_dialog_display", "true");
-    // chatbox.setAttribute("greeting_dialog_delay", "1");
+    chatbox.setAttribute("greeting_dialog_display", "true");
+    chatbox.setAttribute("greeting_dialog_delay", "1");
 
 
 </script>
