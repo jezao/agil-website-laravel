@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/contato', function () {
     return view('contact');
 })->name('contato');
+
+Route::get('/whats', function () {
+    return redirect('https://wa.me/+5515996893668');
+});
