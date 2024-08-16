@@ -13,7 +13,7 @@
                 <div class="navbar-nav ml-auto">
                     <a class="nav-link active " href="{{ route('home')  }}/#home">Home<span></span></a>
                     <a class="nav-link " href="{{ route('home')  }}/#contato">Orçamento grátis<span></span></a>
-                    <a class="nav-link " href={{ route('home')  }}/#sobre">Sobre<span></span></a>
+                    <a class="nav-link " href="{{ route('home')  }}/#sobre">Sobre<span></span></a>
                     <a class="nav-link " href="{{ route('home')  }}/#servicos">Serviços<span></span></a>
                 </div>
             </div>

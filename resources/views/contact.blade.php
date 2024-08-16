@@ -45,8 +45,8 @@
 
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
                 <p>
-                    <a href="https://api.whatsapp.com/send/?phone=5515996893668&amp;text&amp;type=phone_number&amp;app_absent=0" class="contact-heading" style="color: #25D366"><i class="lni lni-whatsapp"></i> 15
-                        99689.3668</a>
+                    <a href="https://api.whatsapp.com/send/?phone=5515997651999&amp;text&amp;type=phone_number&amp;app_absent=0" class="contact-heading" style="color: #25D366"><i class="lni lni-whatsapp"></i> 15
+                        99765.1999</a>
                 </p>
                 <ul class="contact-list">
                     <li><span>Email: </span> contato@agildesentupidora.com</li>
@@ -83,11 +83,11 @@
 
                                 <h3>Whatsapp</h3>
                                 <p>
-                                    <a href="https://api.whatsapp.com/send/?phone=5515996893668"
+                                    <a href="https://api.whatsapp.com/send/?phone=5515997651999"
                                        target="_blank"
                                         style="font-weight: bold; color: #25D366"
                                     >
-                                        15 99689.3668
+                                        15 99765.1999
                                     </a>
                                 </p>
                                 Usando essa ferramenta você ter acesso direto a um de nossos prestadores de serviços, ali você tem acesso a informações como:

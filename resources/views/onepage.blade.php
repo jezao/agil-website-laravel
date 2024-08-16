@@ -51,9 +51,9 @@
             <!-- Content -->
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left">
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
-                    <a href="https://api.whatsapp.com/send/?phone=5515996893668&text&type=phone_number&app_absent=0"
+                    <a href="https://api.whatsapp.com/send/?phone=5515997651999&text&type=phone_number&app_absent=0"
                        class="phone-banner" target="_blank">
-                        <i class="lni lni-whatsapp"></i> 15 99689.3668 (Whatsapp)
+                        <i class="lni lni-whatsapp"></i> 15 99765.1999 (Whatsapp)
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
                     <p class="text">Pagamento facilitado em até <strong>6x</strong></p>
@@ -207,8 +207,8 @@
                         Ralos entupidos podem causar uma série de problemas em sua casa ou empresa, desde o mau
                         cheiro até inundações e infiltrações.
                     </h4>
-                    <a href="/desentupir-ralos" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/desentupir-ralos" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
                 </div>
             </div>
 
@@ -221,8 +221,8 @@
                     <h4 class="box-text">
                         Pias entupidas são um problema comum em casas e empresas, causando transtornos e
                         prejudicando a higiene do ambiente. </h4>
-                    <a href="/desentupir-pias" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/desentupir-pias" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -238,8 +238,8 @@
                         Vasos sanitários entupidos são um problema desagradável que pode causar mau cheiro e impedir
                         o uso adequado do banheiro.
                     </h4>
-                    <a href="/desentupir-vaso-sanitario" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/desentupir-vaso-sanitario" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -256,8 +256,8 @@
                         Um esgoto entupido inesperado pode trazer muitos transtornos e riscos à saúde, além de
                         prejudicar seriamente o meio ambiente.
                     </h4>
-                    <a href="/desentupir-esgoto" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/desentupir-esgoto" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -273,8 +273,8 @@
                     <h4 class="box-text">
                         A caixa de gordura é vital no sistema de esgoto residencial ou empresarial, prevenindo
                         entupimentos e problemas decorrentes do acúmulo de gorduras. </h4>
-                    <a href="/limpar-caixa-de-gordura" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/limpar-caixa-de-gordura" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -290,8 +290,8 @@
                     <h4 class="box-text">
                         O hidrojateamento é um método eficiente e seguro de limpeza de tubulações, utilizando alta
                         pressão de água para remover sujeiras, resíduos e obstruções </h4>
-                    <a href="/hidrojateamento" class="release-button">Saiba mais<i
-                                class="fas fa-angle-right"></i></a>
+{{--                    <a href="/hidrojateamento" class="release-button">Saiba mais<i--}}
+{{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -311,9 +311,9 @@
 
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
                 <p>
-                    <a href="https://api.whatsapp.com/send/?phone=5515996893668&text&type=phone_number&app_absent=0"
+                    <a href="https://api.whatsapp.com/send/?phone=5515997651999&text&type=phone_number&app_absent=0"
                        class="contact-heading" style="color: #25D366"><i class="lni lni-whatsapp"></i> 15
-                        99689.3668</a>
+                        99765.1999</a>
                 </p>
                 <ul class="contact-list">
                     <li><span>Email: </span> contato@agildesentupidora.com</li>

@@ -19,7 +19,7 @@
                                     aria-hidden="true"></i></a></li> -->
                     </ul>
                 </div>
-                <p class="company-about fadeIn">&copy; 2023 Ágil Desentupidora</p>
+                <p class="company-about fadeIn">&copy; 2024 Ágil Desentupidora</p>
 
                 <div class="cidades">
                     <ul>

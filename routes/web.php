@@ -14,7 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('onepage');
+    $html = view('onepage')->render();
+    print_r(__DIR__);
+    file_put_contents('../estatico/index.html', $html);
+//    return view('onepage');
 })->name('home');
 
 Route::get('/contato', function () {
@@ -22,5 +25,5 @@ Route::get('/contato', function () {
 })->name('contato');
 
 Route::get('/whats', function () {
-    return redirect('https://wa.me/+5515996893668');
+    return redirect('https://wa.me/+5515997651999');
 });
