@@ -1,0 +1,268 @@
+{
+  "resources/assets/fonts/la-brands-400.eot": {
+    "file": "assets/la-brands-400-c0e32387.eot",
+    "src": "resources/assets/fonts/la-brands-400.eot"
+  },
+  "resources/assets/fonts/la-brands-400.svg": {
+    "file": "assets/la-brands-400-4da18191.svg",
+    "src": "resources/assets/fonts/la-brands-400.svg"
+  },
+  "resources/assets/fonts/la-brands-400.ttf": {
+    "file": "assets/la-brands-400-fbc98702.ttf",
+    "src": "resources/assets/fonts/la-brands-400.ttf"
+  },
+  "resources/assets/fonts/la-brands-400.woff": {
+    "file": "assets/la-brands-400-14c63377.woff",
+    "src": "resources/assets/fonts/la-brands-400.woff"
+  },
+  "resources/assets/fonts/la-brands-400.woff2": {
+    "file": "assets/la-brands-400-ff70c9bc.woff2",
+    "src": "resources/assets/fonts/la-brands-400.woff2"
+  },
+  "resources/assets/fonts/la-regular-400.eot": {
+    "file": "assets/la-regular-400-7dc456f0.eot",
+    "src": "resources/assets/fonts/la-regular-400.eot"
+  },
+  "resources/assets/fonts/la-regular-400.svg": {
+    "file": "assets/la-regular-400-884ce19c.svg",
+    "src": "resources/assets/fonts/la-regular-400.svg"
+  },
+  "resources/assets/fonts/la-regular-400.ttf": {
+    "file": "assets/la-regular-400-4b6ab8d0.ttf",
+    "src": "resources/assets/fonts/la-regular-400.ttf"
+  },
+  "resources/assets/fonts/la-regular-400.woff": {
+    "file": "assets/la-regular-400-7711fabc.woff",
+    "src": "resources/assets/fonts/la-regular-400.woff"
+  },
+  "resources/assets/fonts/la-regular-400.woff2": {
+    "file": "assets/la-regular-400-51ca2c00.woff2",
+    "src": "resources/assets/fonts/la-regular-400.woff2"
+  },
+  "resources/assets/fonts/la-solid-900.eot": {
+    "file": "assets/la-solid-900-8a57f8a9.eot",
+    "src": "resources/assets/fonts/la-solid-900.eot"
+  },
+  "resources/assets/fonts/la-solid-900.svg": {
+    "file": "assets/la-solid-900-0ce0cc40.svg",
+    "src": "resources/assets/fonts/la-solid-900.svg"
+  },
+  "resources/assets/fonts/la-solid-900.ttf": {
+    "file": "assets/la-solid-900-07ce3559.ttf",
+    "src": "resources/assets/fonts/la-solid-900.ttf"
+  },
+  "resources/assets/fonts/la-solid-900.woff": {
+    "file": "assets/la-solid-900-a0d21b2a.woff",
+    "src": "resources/assets/fonts/la-solid-900.woff"
+  },
+  "resources/assets/fonts/la-solid-900.woff2": {
+    "file": "assets/la-solid-900-10a68e01.woff2",
+    "src": "resources/assets/fonts/la-solid-900.woff2"
+  },
+  "resources/assets/images/about-img.png": {
+    "file": "assets/about-img-220cd6a1.png",
+    "src": "resources/assets/images/about-img.png"
+  },
+  "resources/assets/images/banner-img.png": {
+    "file": "assets/banner-img-9cd9acf0.png",
+    "src": "resources/assets/images/banner-img.png"
+  },
+  "resources/assets/images/contact-img.png": {
+    "file": "assets/contact-img-58aca48c.png",
+    "src": "resources/assets/images/contact-img.png"
+  },
+  "resources/assets/images/detail-slide3.jpg": {
+    "file": "assets/review-bfb9d188.jpg",
+    "src": "resources/assets/images/standalone-3.jpg"
+  },
+  "resources/assets/images/detail-slider1.jpg": {
+    "file": "assets/standalone-1-76f01265.jpg",
+    "src": "resources/assets/images/standalone-1.jpg"
+  },
+  "resources/assets/images/detail-slider2.jpg": {
+    "file": "assets/standalone-1-76f01265.jpg",
+    "src": "resources/assets/images/standalone-1.jpg"
+  },
+  "resources/assets/images/gallery-1.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/gallery-2.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/gallery-3.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/gallery-4.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/logo.png": {
+    "file": "assets/logo-43c42071.png",
+    "src": "resources/assets/images/logo.png"
+  },
+  "resources/assets/images/logo3.png": {
+    "file": "assets/logo3-7b355370.png",
+    "src": "resources/assets/images/logo3.png"
+  },
+  "resources/assets/images/logo3.webp": {
+    "file": "assets/logo3-df83cf0c.webp",
+    "src": "resources/assets/images/logo3.webp"
+  },
+  "resources/assets/images/plumber01.png": {
+    "file": "assets/plumber01-85e711cd.png",
+    "src": "resources/assets/images/plumber01.png"
+  },
+  "resources/assets/images/plumber01.webp": {
+    "file": "assets/plumber01-1e72d8e1.webp",
+    "src": "resources/assets/images/plumber01.webp"
+  },
+  "resources/assets/images/plumberAbout.jpg": {
+    "file": "assets/plumberAbout-a8b3c6e7.jpg",
+    "src": "resources/assets/images/plumberAbout.jpg"
+  },
+  "resources/assets/images/plumberAbout.webp": {
+    "file": "assets/plumberAbout-aee5a9e6.webp",
+    "src": "resources/assets/images/plumberAbout.webp"
+  },
+  "resources/assets/images/portfolio-2.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/portfolio-3.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/portfolio-4.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/protfolio-1.png": {
+    "file": "assets/gallery-1-38378a64.png",
+    "src": "resources/assets/images/protfolio-1.png"
+  },
+  "resources/assets/images/release-img-1.png": {
+    "file": "assets/release-img-1-e61efec1.png",
+    "src": "resources/assets/images/release-img-2.png"
+  },
+  "resources/assets/images/release-img-2.png": {
+    "file": "assets/release-img-1-e61efec1.png",
+    "src": "resources/assets/images/release-img-2.png"
+  },
+  "resources/assets/images/review.jpg": {
+    "file": "assets/review-bfb9d188.jpg",
+    "src": "resources/assets/images/standalone-3.jpg"
+  },
+  "resources/assets/images/standalone-1.jpg": {
+    "file": "assets/standalone-1-76f01265.jpg",
+    "src": "resources/assets/images/standalone-1.jpg"
+  },
+  "resources/assets/images/standalone-2.jpg": {
+    "file": "assets/standalone-2-60e249f3.jpg",
+    "src": "resources/assets/images/standalone-2.jpg"
+  },
+  "resources/assets/images/standalone-3.jpg": {
+    "file": "assets/review-bfb9d188.jpg",
+    "src": "resources/assets/images/standalone-3.jpg"
+  },
+  "resources/assets/images/user-1.jpg": {
+    "file": "assets/user-1-960ffd8f.jpg",
+    "src": "resources/assets/images/user-2.jpg"
+  },
+  "resources/assets/images/user-2.jpg": {
+    "file": "assets/user-1-960ffd8f.jpg",
+    "src": "resources/assets/images/user-2.jpg"
+  },
+  "resources/assets/images/whatsapp.jpg": {
+    "file": "assets/whatsapp-9856f755.jpg",
+    "src": "resources/assets/images/whatsapp.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-1ad8edf9.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-745f60c1.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/vendor/fonts/LineIcons.eot": {
+    "file": "assets/LineIcons-91110143.eot",
+    "src": "resources/vendor/fonts/LineIcons.eot"
+  },
+  "resources/vendor/fonts/LineIcons.svg": {
+    "file": "assets/LineIcons-66b4efa8.svg",
+    "src": "resources/vendor/fonts/LineIcons.svg"
+  },
+  "resources/vendor/fonts/LineIcons.ttf": {
+    "file": "assets/LineIcons-21266db9.ttf",
+    "src": "resources/vendor/fonts/LineIcons.ttf"
+  },
+  "resources/vendor/fonts/LineIcons.woff": {
+    "file": "assets/LineIcons-763b0f3a.woff",
+    "src": "resources/vendor/fonts/LineIcons.woff"
+  },
+  "resources/vendor/fonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-c563adba.eot",
+    "src": "resources/vendor/fonts/fa-brands-400.eot"
+  },
+  "resources/vendor/fonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-f6ae6226.svg",
+    "src": "resources/vendor/fonts/fa-brands-400.svg"
+  },
+  "resources/vendor/fonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-3b3fbc59.ttf",
+    "src": "resources/vendor/fonts/fa-brands-400.ttf"
+  },
+  "resources/vendor/fonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-ca734c79.woff",
+    "src": "resources/vendor/fonts/fa-brands-400.woff"
+  },
+  "resources/vendor/fonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-c885e9f2.woff2",
+    "src": "resources/vendor/fonts/fa-brands-400.woff2"
+  },
+  "resources/vendor/fonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-6e70525b.eot",
+    "src": "resources/vendor/fonts/fa-regular-400.eot"
+  },
+  "resources/vendor/fonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-a849aa4a.svg",
+    "src": "resources/vendor/fonts/fa-regular-400.svg"
+  },
+  "resources/vendor/fonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-41857101.ttf",
+    "src": "resources/vendor/fonts/fa-regular-400.ttf"
+  },
+  "resources/vendor/fonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-9064839b.woff",
+    "src": "resources/vendor/fonts/fa-regular-400.woff"
+  },
+  "resources/vendor/fonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-e5c1d9e7.woff2",
+    "src": "resources/vendor/fonts/fa-regular-400.woff2"
+  },
+  "resources/vendor/fonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-c141af32.eot",
+    "src": "resources/vendor/fonts/fa-solid-900.eot"
+  },
+  "resources/vendor/fonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-7ad9caab.svg",
+    "src": "resources/vendor/fonts/fa-solid-900.svg"
+  },
+  "resources/vendor/fonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-cef5dd66.ttf",
+    "src": "resources/vendor/fonts/fa-solid-900.ttf"
+  },
+  "resources/vendor/fonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-1675e164.woff",
+    "src": "resources/vendor/fonts/fa-solid-900.woff"
+  },
+  "resources/vendor/fonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-08aa3a5e.woff2",
+    "src": "resources/vendor/fonts/fa-solid-900.woff2"
+  }
+}
