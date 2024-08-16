@@ -14,10 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    $html = view('onepage')->render();
-    print_r(__DIR__);
-    file_put_contents('../estatico/index.html', $html);
-//    return view('onepage');
+    return view('onepage');
 })->name('home');
 
 Route::get('/contato', function () {
