@@ -8,18 +8,15 @@
     <title>&Aacute;gil Desentupidora em Sorocaba - Atendimento 24hrs</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3JDCVSGNX"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4W5ETEZ3E5">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
-        gtag('js', new Date());
-
-        gtag('config', 'G-K3JDCVSGNX');
-    </script>
+  gtag('config', 'G-4W5ETEZ3E5');
+</script>
 </head>
 
 <body data-spy="scroll" data-target="#megaone" data-offset="90">
