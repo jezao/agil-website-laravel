@@ -85,7 +85,7 @@
 <!--END SCROLL TOP-->
 @vite('resources/js/app.js');
 <!-- Messenger Chat Plugin Code -->
-<div id="fb-root"></div>
+<!-- <div id="fb-root"></div>
 
 <div id="fb-customer-chat" class="fb-customerchat"></div>
 
@@ -97,10 +97,10 @@
     chatbox.setAttribute("greeting_dialog_delay", "1");
 
 
-</script>
+</script> -->
 
 
-<script defer>
+<!-- <script defer>
     window.fbAsyncInit = function() {
         FB.init({
             xfbml            : true,
@@ -115,4 +115,4 @@
         js.src = 'https://connect.facebook.net/pt_BR/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
-</script>
+</script> -->
