@@ -100,16 +100,16 @@
     "src": "resources/assets/images/protfolio-1.png"
   },
   "resources/assets/images/logo.png": {
-    "file": "assets/logo-43c42071.png",
+    "file": "assets/logo-0c7a9efb.png",
     "src": "resources/assets/images/logo.png"
   },
-  "resources/assets/images/logo3.png": {
-    "file": "assets/logo3-7b355370.png",
-    "src": "resources/assets/images/logo3.png"
+  "resources/assets/images/logo3.agil.png": {
+    "file": "assets/logo3.agil-7b355370.png",
+    "src": "resources/assets/images/logo3.agil.png"
   },
-  "resources/assets/images/logo3.webp": {
-    "file": "assets/logo3-df83cf0c.webp",
-    "src": "resources/assets/images/logo3.webp"
+  "resources/assets/images/logo3.agil.webp": {
+    "file": "assets/logo3.agil-df83cf0c.webp",
+    "src": "resources/assets/images/logo3.agil.webp"
   },
   "resources/assets/images/plumber01.png": {
     "file": "assets/plumber01-85e711cd.png",
@@ -169,41 +169,25 @@
   },
   "resources/assets/images/user-1.jpg": {
     "file": "assets/user-1-960ffd8f.jpg",
-    "src": "resources/assets/images/user-1.jpg"
+    "src": "resources/assets/images/user-2.jpg"
   },
   "resources/assets/images/user-2.jpg": {
     "file": "assets/user-1-960ffd8f.jpg",
-    "src": "resources/assets/images/user-1.jpg"
+    "src": "resources/assets/images/user-2.jpg"
   },
   "resources/assets/images/whatsapp.jpg": {
     "file": "assets/whatsapp-9856f755.jpg",
     "src": "resources/assets/images/whatsapp.jpg"
   },
   "resources/css/app.css": {
-    "file": "assets/app-1ad8edf9.css",
+    "file": "assets/app-47116c7b.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-745f60c1.js",
+    "file": "assets/app-cce545e1.js",
     "isEntry": true,
     "src": "resources/js/app.js"
-  },
-  "resources/vendor/fonts/LineIcons.eot": {
-    "file": "assets/LineIcons-91110143.eot",
-    "src": "resources/vendor/fonts/LineIcons.eot"
-  },
-  "resources/vendor/fonts/LineIcons.svg": {
-    "file": "assets/LineIcons-66b4efa8.svg",
-    "src": "resources/vendor/fonts/LineIcons.svg"
-  },
-  "resources/vendor/fonts/LineIcons.ttf": {
-    "file": "assets/LineIcons-21266db9.ttf",
-    "src": "resources/vendor/fonts/LineIcons.ttf"
-  },
-  "resources/vendor/fonts/LineIcons.woff": {
-    "file": "assets/LineIcons-763b0f3a.woff",
-    "src": "resources/vendor/fonts/LineIcons.woff"
   },
   "resources/vendor/fonts/fa-brands-400.eot": {
     "file": "assets/fa-brands-400-c563adba.eot",

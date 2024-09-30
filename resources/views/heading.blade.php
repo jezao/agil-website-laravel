@@ -5,7 +5,7 @@
         <div class="container">
             <a href="#home" title="Logo" class="logo">
                 <!--Logo Default-->
-                <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo3.webp') }} alt="logo" class="logo-dark" alt="Logo">
+                <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo.png') }} alt="logo" class="logo-dark" alt="Logo">
             </a>
 
             <!--Nav Links-->
@@ -18,7 +18,7 @@
                 </div>
             </div>
             <!--Side Menu Button-->
-            <a href="javascript:void(0)" class="sidemenu_btn" id="sidemenu_toggle">
+            <a href="#" class="sidemenu_btn" id="sidemenu_toggle">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -58,11 +58,11 @@
                     <li><a class="instagram-text-hvr" href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
                     </li> -->
                 </ul>
-                <p class="">&copy; 2023 Ágil Desentupidora<></p>
+                <p class="">&copy; 2024 Ágil Desentupidora<></p>
             </div>
         </div>
     </div>
-    <a id="close_side_menu" href="javascript:void(0);"></a>
+    <a id="close_side_menu" href="#"></a>
     <!-- End side menu -->
 </header>
 <!-- End Header -->

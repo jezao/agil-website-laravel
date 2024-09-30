@@ -4,19 +4,24 @@
 <head>
     @include('meta')
     @vite('resources/css/app.css')
+    @vite('resources/js/app.js')
     <!-- Page Title -->
-    <title>&Aacute;gil Desentupidora em Sorocaba - Atendimento 24hrs</title>
+    <title>Desentupidor em Sorocaba - Atendimento 24hrs</title>
 
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4W5ETEZ3E5">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4W5ETEZ3E5">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-4W5ETEZ3E5');
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-4W5ETEZ3E5');
+    </script>
 </head>
 
 <body data-spy="scroll" data-target="#megaone" data-offset="90">
@@ -86,36 +91,32 @@
             <div class="col-12">
                 <div class="about-area">
                     <h4 class="heading-sub wow fadeInDown" data-wow-delay="1s">
-                        Sobre nossa empresa
+                        Sobre mim
                     </h4>
                     <h1 class="heading-about wow fadeInUp" data-wow-delay=".9s">
-                        Garantir sua satisfação é nossa prioridade
+                        Sua satisfação é minha prioridade
                     </h1>
                     <p></p>
                     <p class="text" style="margin-top:40px">
-                        A Ágil é uma empresa de desentupimento fundada em 2022, que vem se destacando no mercado
-                        pelo atendimento de excelência prestado a clientes residenciais e empresariais.
+                        Sou João Desentupidor, e desde 2022 venho ajudando clientes residenciais e empresariais a
+                        resolverem seus problemas de entupimento de forma rápida e eficiente.
+
                     </p>
 
                     <p class="text">
-                        Com uma equipe técnica altamente capacitada e equipamentos modernos e eficientes, a Ágil
-                        oferece soluções rápidas e eficazes para <strong>qualquer tipo de entupimento</strong>.
+                        Com técnicas modernas e equipamentos de última geração, estou sempre pronto para garantir que
+                        sua casa ou empresa esteja limpa e saudável. Minha prioridade é a sua satisfação, e por isso
+                        busco constantemente novas tecnologias e métodos para aprimorar o serviço que ofereço.
                     </p>
 
                     <p>
-                        Nossa prioridade é garantir a satisfação dos nossos clientes, proporcionando um ambiente
-                        limpo e saudável para suas casas ou empresas, empre em busca de novas tecnologias e métodos
-                        para aprimorar nossos serviços e garantir a excelência no atendimento.
-                    </p>
-
-                    <p>
-                        Agradecemos a confiança depositada em nós e estamos sempre prontos para atender você. Conte
-                        com a <strong>Ágil</strong> para resolver seus problemas de entupimento com
-                        <strong>qualidade e eficiência!</strong>
+                        Agradeço a confiança que você deposita no meu trabalho. Conte comigo, João Desentupidor, para
+                        resolver seus problemas com qualidade e eficiência!
                     </p>
                 </div>
                 <div class="image-div">
-                    <img src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumberAbout.webp') }} alt="image">
+                    <img
+                        src={{ \Illuminate\Support\Facades\Vite::asset('resources/assets/images/plumberAbout.webp') }} alt="image">
                 </div>
             </div>
         </div>
@@ -204,8 +205,8 @@
                         Ralos entupidos podem causar uma série de problemas em sua casa ou empresa, desde o mau
                         cheiro até inundações e infiltrações.
                     </h4>
-{{--                    <a href="/desentupir-ralos" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/desentupir-ralos" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
                 </div>
             </div>
 
@@ -218,8 +219,8 @@
                     <h4 class="box-text">
                         Pias entupidas são um problema comum em casas e empresas, causando transtornos e
                         prejudicando a higiene do ambiente. </h4>
-{{--                    <a href="/desentupir-pias" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/desentupir-pias" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -235,8 +236,8 @@
                         Vasos sanitários entupidos são um problema desagradável que pode causar mau cheiro e impedir
                         o uso adequado do banheiro.
                     </h4>
-{{--                    <a href="/desentupir-vaso-sanitario" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/desentupir-vaso-sanitario" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -253,8 +254,8 @@
                         Um esgoto entupido inesperado pode trazer muitos transtornos e riscos à saúde, além de
                         prejudicar seriamente o meio ambiente.
                     </h4>
-{{--                    <a href="/desentupir-esgoto" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/desentupir-esgoto" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -270,8 +271,8 @@
                     <h4 class="box-text">
                         A caixa de gordura é vital no sistema de esgoto residencial ou empresarial, prevenindo
                         entupimentos e problemas decorrentes do acúmulo de gorduras. </h4>
-{{--                    <a href="/limpar-caixa-de-gordura" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/limpar-caixa-de-gordura" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -287,8 +288,8 @@
                     <h4 class="box-text">
                         O hidrojateamento é um método eficiente e seguro de limpeza de tubulações, utilizando alta
                         pressão de água para remover sujeiras, resíduos e obstruções </h4>
-{{--                    <a href="/hidrojateamento" class="release-button">Saiba mais<i--}}
-{{--                                class="fas fa-angle-right"></i></a>--}}
+                    {{--                    <a href="/hidrojateamento" class="release-button">Saiba mais<i--}}
+                    {{--                                class="fas fa-angle-right"></i></a>--}}
 
 
                 </div>
@@ -323,8 +324,9 @@
             <div class="col-md-12 col-lg-6 wow slideInLeft" data-wow-delay=".4s">
                 <div class="mapouter">
                     <div id="map">
-                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Protassio+de+camargo+sampaio%2C+Sorocaba&zoom=15&scale=2&size=540x300&maptype=roadmap&format=png&key=AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs&markers=size:mid%7Ccolor:0xf0c905%7Clabel:1%7CProtassio%20de%20camargo%20sampaio%2C%20Sorocaba"
-                             alt="Google map of Protassio de camargo sampaio, Sorocaba" width="100%"/>
+                        <img
+                            src="https://maps.googleapis.com/maps/api/staticmap?center=Protassio+de+camargo+sampaio%2C+Sorocaba&zoom=15&scale=2&size=540x300&maptype=roadmap&format=png&key=AIzaSyDhYJ13ZEhE5J6feW1NHUC8OnSHR-rxbJs&markers=size:mid%7Ccolor:0xf0c905%7Clabel:1%7CProtassio%20de%20camargo%20sampaio%2C%20Sorocaba"
+                            alt="Google map of Protassio de camargo sampaio, Sorocaba" width="100%"/>
                     </div>
                 </div>
             </div>

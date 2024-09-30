@@ -10,11 +10,11 @@
 <meta property="og:title" content="Desentupidora Ágil - Sorocaba">
 <meta property="og:description"
       content="A Desentupidora Ágil oferece serviços de desentupimento de ralos, pias, vasos sanitários e esgotos em Sorocaba e região. Orçamento grátis e aceitação de todas as formas de pagamento.">
-<meta property="og:image" content="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo3.webp')}}">
+<meta property="og:image" content="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo.png')}}">
 <meta property="og:url" content="https://agildesentupidora.com/">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Ágil Desentupidora - Sorocaba">
 <meta name="twitter:description"
       content="A Ágil desentupidora oferece serviços de desentupimento de ralos, pias, vasos sanitários e esgotos em Sorocaba e região. Orçamento grátis e aceitação de todas as formas de pagamento.">
-<meta name="twitter:image" content="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo3.webp')}}">
+<meta name="twitter:image" content="{{\Illuminate\Support\Facades\Vite::asset('resources/assets/images/logo.png')}}">
