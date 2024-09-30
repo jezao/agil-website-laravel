@@ -31,10 +31,10 @@ export default defineConfig({
         })
     ],
     server: {
-        https: {
-            key: fs.readFileSync(path.resolve(__dirname, 'certs/localhost.key')),  // Adjust path if needed
-            cert: fs.readFileSync(path.resolve(__dirname, 'certs/localhost.crt')),  // Adjust path if needed
-        },
+        // https: {
+        //     key: fs.readFileSync(path.resolve(__dirname, 'certs/localhost.key')),  // Adjust path if needed
+        //     cert: fs.readFileSync(path.resolve(__dirname, 'certs/localhost.crt')),  // Adjust path if needed
+        // },
         port: 1234,  // Set to the correct port
         host: 'localhost',  // Ensure the host is set to localhost
     },
