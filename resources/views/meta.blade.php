@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-social=1">
+<meta name="viewport" content="width=device-width">
 <!-- Author -->
 <meta name="description"
       content="A Ágil desentupidora oferece serviços de desentupimento de ralos, pias, vasos sanitários e esgotos em Sorocaba e região. Orçamento grátis e aceitação de todas as formas de pagamento.">
