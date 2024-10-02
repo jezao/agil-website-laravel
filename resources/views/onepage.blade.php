@@ -314,7 +314,7 @@
                         99765.1999</a>
                 </p>
                 <ul class="contact-list">
-                    <li><span>Email: </span> contato@agildesentupidora.com</li>
+                    <li><span>Email: </span> joao@desentupidorsorocaba.com.br</li>
                 </ul>
 
                 <hr>

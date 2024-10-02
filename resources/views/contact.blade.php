@@ -49,7 +49,7 @@
                         99765.1999</a>
                 </p>
                 <ul class="contact-list">
-                    <li><span>Email: </span> contato@agildesentupidora.com</li>
+                    <li><span>Email: </span> joao@desentupidorsorocaba.com.br</li>
                 </ul>
 
             </div>
@@ -104,7 +104,7 @@
                             <h3>E-mail</h3>
                                 Através do nosso e-mail você também pode fazer as perguntas, deixar ali suas duvidas, e dentro de alguns instantes você terá um e-mail da nossa empresa! Com todas as informações e duvidas que foram nos enviadas!
 
-                                <a href="mailto:contato@agildesentupidora.com" style="font-weight: bold; color: #25D366">contato@agildesentupidora.com</a>
+                                <a href="mailto:joao@desentupidorsorocaba.com.br" style="font-weight: bold; color: #25D366">joao@desentupidorsorocaba.com.br</a>
                             <br>
                             <br>
                                 <h3>Chat online</h3>
