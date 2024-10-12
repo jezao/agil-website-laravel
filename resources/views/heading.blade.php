@@ -48,9 +48,9 @@
 
             <div class="side-footer w-100">
                 <ul class="social-icons-simple">
-                    <li><a class="facebook-text-hvr" href="https://www.facebook.com/desentope.agil/"><i
-                                    class="fab fa-facebook-f"></i></a>
-                    </li>
+{{--                    <li><a class="facebook-text-hvr" href="https://www.facebook.com/desentope.agil/"><i--}}
+{{--                                    class="fab fa-facebook-f"></i></a>--}}
+{{--                    </li>--}}
                     <!-- <li><a class="twitter-text-hvr" href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li><a class="linkedin-text-hvr" href="javascript:void(0)"><i
@@ -58,7 +58,7 @@
                     <li><a class="instagram-text-hvr" href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
                     </li> -->
                 </ul>
-                <p class="">&copy; 2024 Ágil Desentupidora<></p>
+                <p class="">&copy; 2024 João desentupidor<></p>
             </div>
         </div>
     </div>

@@ -53,9 +53,9 @@
             <!-- Content -->
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left">
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
-                    <a href="https://api.whatsapp.com/send/?phone=5515997651999&text&type=phone_number&app_absent=0"
+                    <a href="https://api.whatsapp.com/send/?phone=5515998290671&text&type=phone_number&app_absent=0"
                        class="phone-banner" target="_blank">
-                        <i class="lni lni-whatsapp"></i> 15 99765.1999 (Whatsapp)
+                        <i class="lni lni-whatsapp"></i> 15 99829.0671 (Whatsapp)
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
                     <p class="text">Pagamento facilitado em até <strong>6x</strong></p>
@@ -309,9 +309,9 @@
 
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
                 <p>
-                    <a href="https://api.whatsapp.com/send/?phone=5515997651999&text&type=phone_number&app_absent=0"
+                    <a href="https://api.whatsapp.com/send/?phone=5515998290671&text&type=phone_number&app_absent=0"
                        class="contact-heading" style="color: #25D366"><i class="lni lni-whatsapp"></i> 15
-                        99765.1999</a>
+                        99829.0671</a>
                 </p>
                 <ul class="contact-list">
                     <li><span>Email: </span> joao@desentupidorsorocaba.com.br</li>

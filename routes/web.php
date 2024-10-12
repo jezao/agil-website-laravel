@@ -22,5 +22,5 @@ Route::get('/contato', function () {
 })->name('contato');
 
 Route::get('/whats', function () {
-    return redirect('https://wa.me/+5515997651999');
+    return redirect('https://wa.me/+5515998290671');
 });
