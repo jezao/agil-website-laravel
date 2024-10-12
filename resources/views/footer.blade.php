@@ -5,8 +5,8 @@
             <div class="col-md-12">
                 <div class="footer-social">
                     <ul class="list-unstyled">
-                        <li><a class="wow fadeInUp" href="https://www.facebook.com/desentope.agil/"><i
-                                        class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+{{--                        <li><a class="wow fadeInUp" href="https://www.facebook.com/desentope.agil/"><i--}}
+{{--                                        class="fab fa-facebook-f" aria-hidden="true"></i></a></li>--}}
                         <!-- <li><a class="wow fadeInDown" href="javascript:void(0);"><i class="fab fa-twitter"
                                     aria-hidden="true"></i></a></li>
                         <li><a class="wow fadeInUp" href="javascript:void(0);"><i class="fab fa-google-plus-g"
