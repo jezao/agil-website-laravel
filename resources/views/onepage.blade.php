@@ -74,8 +74,8 @@
     </div>
     <div class="slider-icons">
         <ul class="slider-social banner-social">
-            <li><a class="" href="https://www.facebook.com/desentope.agil/"><i class="fab fa-facebook-f"></i> </a>
-            </li>
+{{--            <li><a class="" href="https://www.facebook.com/desentope.agil/"><i class="fab fa-facebook-f"></i> </a>--}}
+{{--            </li>--}}
             <!-- <li><a class="" href="javascript:void(0);"><i class="fab fa-twitter"></i> </a></li>
             <li><a class="" href="javascript:void(0);"><i class="fab fa-linkedin-in"></i> </a></li>
             <li><a class="" href="javascript:void(0);"><i class="fab fa-instagram"></i> </a></li> -->
