@@ -9,7 +9,7 @@
     <title>{{ \App\Helpers\SiteHelper::config('title') }} - Atendimento 24hrs</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2SMPZKGSS"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{\App\Helpers\SiteHelper::config('ga')}}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -19,7 +19,7 @@
 
         gtag('js', new Date());
 
-        gtag('config', 'G-Q2SMPZKGSS');
+        gtag('config', '{{\App\Helpers\SiteHelper::config('ga')}}');
     </script>
 </head>
 
