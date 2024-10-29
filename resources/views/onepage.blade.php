@@ -6,13 +6,17 @@
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
     <!-- Page Title -->
-    <title>João Desentupidor em Sorocaba - Atendimento 24hrs</title>
+    <title>{{ \App\Helpers\SiteHelper::config('title') }} - Atendimento 24hrs</title>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2SMPZKGSS"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-Q2SMPZKGSS');
@@ -48,9 +52,9 @@
             <!-- Content -->
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left">
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
-                    <a href="https://api.whatsapp.com/send/?phone=5515998290671&text&type=phone_number&app_absent=0"
+                    <a href="https://api.whatsapp.com/send/?phone=55{{ str_replace('-','',str_replace(' ','',\App\Helpers\SiteHelper::config('phone'))) }}&text&type=phone_number&app_absent=0"
                        class="phone-banner" target="_blank">
-                        <i class="lni lni-whatsapp"></i> 15 99829.0671 (Whatsapp)
+                        <i class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }} (Whatsapp)
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
                     <p class="text">Pagamento facilitado em até <strong>6x</strong></p>
@@ -69,8 +73,8 @@
     </div>
     <div class="slider-icons">
         <ul class="slider-social banner-social">
-{{--            <li><a class="" href="https://www.facebook.com/desentope.agil/"><i class="fab fa-facebook-f"></i> </a>--}}
-{{--            </li>--}}
+            {{--            <li><a class="" href="https://www.facebook.com/desentope.agil/"><i class="fab fa-facebook-f"></i> </a>--}}
+            {{--            </li>--}}
             <!-- <li><a class="" href="javascript:void(0);"><i class="fab fa-twitter"></i> </a></li>
             <li><a class="" href="javascript:void(0);"><i class="fab fa-linkedin-in"></i> </a></li>
             <li><a class="" href="javascript:void(0);"><i class="fab fa-instagram"></i> </a></li> -->
@@ -303,13 +307,12 @@
             <div class=" col-lg-6  contact-details text-center text-lg-left wow slideInRight" data-wow-delay=".4s">
 
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
-                <p>
-                    <a href="https://api.whatsapp.com/send/?phone=5515998290671&text&type=phone_number&app_absent=0"
-                       class="contact-heading" style="color: #25D366"><i class="lni lni-whatsapp"></i> 15
-                        99829.0671</a>
+                <p style="padding-top: 10px">
+                    <a href="https://api.whatsapp.com/send/?phone=55{{ str_replace('-','',str_replace(' ','',\App\Helpers\SiteHelper::config('phone'))) }}&text&type=phone_number&app_absent=0"
+                       class="contact-heading" style="color: #25D366;"><i class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }}</a>
                 </p>
                 <ul class="contact-list">
-                    <li><span>Email: </span> joao@desentupidorsorocaba.com.br</li>
+                    <li><span>Email: </span> {{ \App\Helpers\SiteHelper::config('email') }}</li>
                 </ul>
 
                 <hr>
