@@ -9,15 +9,29 @@
     <title>{{ \App\Helpers\SiteHelper::config('title') }} - Atendimento 24hrs</title>
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','{{\App\Helpers\SiteHelper::config('gtag')}}');</script>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', '{{\App\Helpers\SiteHelper::config('gtag')}}');</script>
     <!-- End Google Tag Manager -->
 </head>
 
 <body data-spy="scroll" data-target="#megaone" data-offset="90">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id={{\App\Helpers\SiteHelper::config('gtag')}}"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 {{--<!-- Preloader -->--}}
 {{--<div class="preloader">--}}
@@ -303,7 +317,8 @@
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
                 <p style="padding-top: 10px">
                     <a href="https://api.whatsapp.com/send/?phone=55{{ str_replace('-','',str_replace(' ','',\App\Helpers\SiteHelper::config('phone'))) }}&text&type=phone_number&app_absent=0"
-                       class="contact-heading" style="color: #25D366;"><i class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }}</a>
+                       class="contact-heading" style="color: #25D366;"><i
+                            class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }}</a>
                 </p>
                 <ul class="contact-list">
                     <li><span>Email: </span> {{ \App\Helpers\SiteHelper::config('email') }}</li>
