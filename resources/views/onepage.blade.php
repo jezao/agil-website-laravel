@@ -6,21 +6,16 @@
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
     <!-- Page Title -->
-    <title>Desentupidor em Sorocaba - Atendimento 24hrs</title>
+    <title>João Desentupidor em Sorocaba - Atendimento 24hrs</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4W5ETEZ3E5">
-    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2SMPZKGSS"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
+        function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-4W5ETEZ3E5');
+        gtag('config', 'G-Q2SMPZKGSS');
     </script>
 </head>
 
