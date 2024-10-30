@@ -19,6 +19,16 @@ $(document).ready(function () {
         }, 1200);
     });
 
+    $('.btn-conversion').on('click', function(e) {
+        e.preventDefault();
+        // send_to value should come from data-conversion-id attribute
+        gtag('event', 'conversion', {
+            'send_to': $(this).data('conversion-id'),
+        });
+
+        window.location.href = $(this).attr('href');
+    });
+
     /* ===================================
         WOW.js Initialization (Animation)
     ====================================== */
