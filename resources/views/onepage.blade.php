@@ -2,6 +2,13 @@
 <html lang="pt-br">
 
 <head>
+    <link rel="icon" type="image/png" href="/build/assets/favicon/favicon-96x96.png"
+          sizes="96x96"/>
+    <link rel="icon" type="image/svg+xml" href="/build/assets/favicon/favicon.svg"/>
+    <link rel="shortcut icon" href="/build/assets/favicon/favicon.ico"/>
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="/build/assets/favicon/apple-touch-icon.png"/>
+    <link rel="manifest" href="/build/assets/favicon/site.webmanifest/>
     @include('meta')
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
@@ -12,7 +19,6 @@
     <script async
             src="https://www.googletagmanager.com/gtag/js?id={{\App\Helpers\SiteHelper::config('gtag')}}"></script>
     <script>
-
 
 
         window.dataLayer = window.dataLayer || [];
@@ -66,7 +72,8 @@
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left">
                 <div class="heading-area wow slideInLeft" data-wow-delay=".7s">
                     <a href="https://api.whatsapp.com/send/?phone=55{{ str_replace('-','',str_replace(' ','',\App\Helpers\SiteHelper::config('phone'))) }}&text&type=phone_number&app_absent=0"
-                       class="phone-banner btn-conversion" data-conversion-id="AW-1018172029/A8QrCLavtasYEP2kwOUD" target="_blank">
+                       class="phone-banner btn-conversion" data-conversion-id="AW-1018172029/A8QrCLavtasYEP2kwOUD"
+                       target="_blank">
                         <i class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }} (Whatsapp)
                     </a>
                     <h4 class="heading">Orçamento<span class="d-block">Grátis.</span></h4>
@@ -322,8 +329,9 @@
                 <span class="contact-sub-heading">Atendimento <strong>24hrs</strong> via whatsapp</span>
                 <p style="padding-top: 10px">
                     <a href="https://api.whatsapp.com/send/?phone=55{{ str_replace('-','',str_replace(' ','',\App\Helpers\SiteHelper::config('phone'))) }}&text&type=phone_number&app_absent=0"
-                       class="contact-heading btn-conversion" data-conversion-id="AW-1018172029/A8QrCLavtasYEP2kwOUD" style="color: #25D366;"
-                       ><i
+                       class="contact-heading btn-conversion" data-conversion-id="AW-1018172029/A8QrCLavtasYEP2kwOUD"
+                       style="color: #25D366;"
+                    ><i
                             class="lni lni-whatsapp"></i> {{ \App\Helpers\SiteHelper::config('phone') }}</a>
                 </p>
                 <ul class="contact-list">
