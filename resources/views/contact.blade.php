@@ -83,7 +83,7 @@
 
                                 <h3>Whatsapp</h3>
                                 <p>
-                                    <a href="https://api.whatsapp.com/send/?phone=5515998290671"
+                                    <a href="https://api.whatsapp.com/send/?phone={{ str_replace('-','',str_replace(' ', '', \App\Helpers\SiteHelper::config('phone'))) }}&amp;text&amp;type=phone_number&amp;app_absent=0"
                                        target="_blank"
                                         style="font-weight: bold; color: #25D366"
                                     >
@@ -104,7 +104,7 @@
                             <h3>E-mail</h3>
                                 Através do nosso e-mail você também pode fazer as perguntas, deixar ali suas duvidas, e dentro de alguns instantes você terá um e-mail da nossa empresa! Com todas as informações e duvidas que foram nos enviadas!
 
-                                <a href="mailto:joao@desentupidorsorocaba.com.br" style="font-weight: bold; color: #25D366">joao@desentupidorsorocaba.com.br</a>
+                                <a href="mailto:{{ \App\Helpers\SiteHelper::config('email') }}" style="font-weight: bold; color: #25D366">{{\App\Helpers\SiteHelper::config('email')}}</a>
                             <br>
                             <br>
                                 <h3>Chat online</h3>

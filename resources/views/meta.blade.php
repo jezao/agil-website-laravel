@@ -6,7 +6,7 @@
       content="desentupidor, desentupidora, desentupimento, ralo, pia, vaso sanitário, esgoto, hidrojateamento, Sorocaba, Votorantim, desentupir">
 <meta name="author" content="João Desentupidor">
 <title>{{ \App\Helpers\SiteHelper::config('title') }} - Atendimento 24hrs - {{ \App\Helpers\SiteHelper::config('phone') }} - Atendimento 24hrs</title>
-<link rel="canonical" href="https://desentupidorsorocaba.com.br/">
+<link rel="canonical" href="https://{{ request()->getHost() }}/">
 <meta property="og:title" content="{{ \App\Helpers\SiteHelper::config('title') }} - Atendimento 24hrs">
 <meta property="og:description"
       content="Ofereço serviços de desentupimento de ralos, pias, vasos sanitários e esgotos em Sorocaba e região. Orçamento grátis e aceitação de todas as formas de pagamento.">
