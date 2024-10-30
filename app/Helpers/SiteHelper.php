@@ -16,16 +16,16 @@ class SiteHelper
             'title' => 'Desentupidor Sorocaba',
             'phone' => '15 99829-0671',
             'email' => 'contato@desentupidorsorocaba.com.br',
-            'ga' => 'G-Q2SMPZKGSS',
-            'gtag' => 'GTM-P6BDCDV9',
+            'ga' => 'AW-1018172029',
+            'gtag' => 'AW-1018172029',
 
         ],
         'joaodesentupidor.com.br' => [
             'title' => 'João Desentupidor em Sorocaba',
             'phone' => '15 99829-0671',
             'email' => 'contato@joaodesentupidor.com.br',
-            'ga' => 'G-Q2SMPZKGSS',
-            'gtag' => 'GTM-P6BDCDV9',
+            'ga' => 'AW-1018172029',
+            'gtag' => 'AW-1018172029',
         ],
     ];
 
